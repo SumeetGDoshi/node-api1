@@ -21,7 +21,7 @@
   "homepage": "https://bitbucket.org/amit_verma_shoclefindia/shoclefnode#readme",
   "dependencies": {
     "authy": "^1.4.0",
-    "aws-sdk": "^2.488.0",
+    "aws-sdk": "^2.814.0",
     "braintree": "^2.19.0",
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
